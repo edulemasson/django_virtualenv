@@ -37,6 +37,7 @@ $ sudo pip install virtualenv
 > Clone this [repository] or download and unzip manually the project files 
 ```sh 
 $ git clone git@github.com:edulemasson/django_virtualenv.git .
+```
 
 > Install Django Boots Depencies
 ```sh 
