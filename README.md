@@ -1,10 +1,12 @@
-#Django Bootstrap3 Skeleton Application with Virtualenv
+#DJANGO BOOTS
+##Django Bootstrap3 Skeleton Application with Virtualenv
 
+```sh
   _                 __  _     _   _   _ ___ __  <br>
  | \   |  /\  |\ | /__ / \   |_) / \ / \ | (_  	<br>
  |_/ \_| /--\ | \| \_| \_/   |_) \_/ \_/ | __) 	<br>
                                                	<br>
-                                                                                 
+```                                                                                 
 
 Django Bootstrap is an eskeleton application using Django 1.9.5, Twitter Bootstrap 3 and Virtualenv mantened by [Eduardo Le Masson]
 
