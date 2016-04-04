@@ -38,8 +38,12 @@ $ sudo pip install virtualenv
 ```sh 
 $ git clone git@github.com:edulemasson/django_virtualenv.git .
 ```
+>Access virtualenv's environment. This command will allow you to enter in the project's environment
+```sh
+$ source ./virtualenv/bin/activate
+```
 
-> Install Django Boots Depencies
+> Install All Django Boots Depencies
 ```sh 
 $ pip install -r requirements.txt 
 ```
