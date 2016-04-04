@@ -70,7 +70,7 @@ No warranties are given. The license may not give you all of the permissions nec
    [eduardo le masson]: <https://linkedin.com/in/edulemasson>
    [Django]: <https://djangoproject.com>
    [Twitter Bootstrap]: <http://twitter.github.com/bootstrap/>
-   [Virtualenv]: https://virtualenv.pypa.io/en/latest/
+   [Virtualenv]: https://virtualenv.pypa.io/en/latest/>
    [keymaster.js]: <https://github.com/madrobby/keymaster>
    [license]: https://creativecommons.org/licenses/by/3.0/
 
