@@ -7,7 +7,7 @@
  |_/ \_| /--\ | \| \_| \_/   |_) \_/ \_/ | __) 	
 ```                                                                                 
 
-Django Bootstrap is an eskeleton application using Django 1.9.5, Twitter Bootstrap 3 and Virtualenv mantened by [Eduardo Le Masson]
+Django Bootstrap is an eskeleton application using [Django] 1.9.5, [Twitter Bootstrap] 3 and [Virtualenv] mantened by [Eduardo Le Masson]
 
   - Fast way to initiate Django Development.
   - Control over the project depencies and isolate them through Virtualenv.
@@ -48,16 +48,14 @@ $ python manage.py runserver 127.0.0.1:8080
 Want to contribute? Great come on!
 
 
-### Todos
-
- - Write License Text
  
 
 License
-No license text yet
+Creative Commons 3.0 - [license]
+You are free to copy and redistribute the material in any medium or format
+Adapt. You can remix, transform, and build upon the material for any purpose, even commercially. 
 
-MIT
-
+No warranties are given. The license may not give you all of the permissions necessary for your intended use. For example, other rights such as publicity, privacy, or moral rights may limit how you use the material. 
 
 **Free Software, Hell Yeah!**
 
@@ -65,8 +63,10 @@ MIT
    
    [repository]: <https://github.com/edulemasson/django_virtualenv.git>
    [eduardo le masson]: <https://linkedin.com/in/edulemasson>
-   [django]: <https://djangoproject.com>
+   [Django]: <https://djangoproject.com>
    [Twitter Bootstrap]: <http://twitter.github.com/bootstrap/>
+   [Virtualenv]: https://virtualenv.pypa.io/en/latest/
    [keymaster.js]: <https://github.com/madrobby/keymaster>
+   [license]: https://creativecommons.org/licenses/by/3.0/
 
 
