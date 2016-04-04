@@ -35,10 +35,12 @@ $ apt-get -y install python-pip
 $ sudo pip install virtualenv
 ```
 > Clone this [repository] or download and unzip manually the project files 
+```sh 
+$ git clone git@github.com:edulemasson/django_virtualenv.git .
 
 > Install Django Boots Depencies
 ```sh 
-pip install -r requirements.txt 
+$ pip install -r requirements.txt 
 ```
 
 >Start the Django incorporated development webserver and define the port to avoid conflicts
