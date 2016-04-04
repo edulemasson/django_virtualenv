@@ -69,6 +69,9 @@ No warranties are given. The license may not give you all of the permissions nec
 
 **Free Software, Hell Yeah!**
 
+TODO
+Setup Initial Git Ignore
+
 
    
    [repository]: <https://github.com/edulemasson/django_virtualenv.git>
