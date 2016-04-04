@@ -69,9 +69,9 @@ No warranties are given. The license may not give you all of the permissions nec
    [repository]: <https://github.com/edulemasson/django_virtualenv.git>
    [eduardo le masson]: <https://linkedin.com/in/edulemasson>
    [Django]: <https://djangoproject.com>
-   [Twitter Bootstrap]: <http://twitter.github.com/bootstrap/>
-   [Virtualenv]: https://virtualenv.pypa.io/en/latest/>
+   [Twitter Bootstrap]: <http://twitter.github.com/bootstrap>
+   [Virtualenv]: https://virtualenv.pypa.io/en/latest>
    [keymaster.js]: <https://github.com/madrobby/keymaster>
-   [license]: https://creativecommons.org/licenses/by/3.0/
+   [license]: https://creativecommons.org/licenses/by/3.0>
 
 
