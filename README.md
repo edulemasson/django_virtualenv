@@ -1,8 +1,8 @@
 #Django Bootstrap3 Skeleton Application with Virtualenv
- #### ___     _  _   _  _  ___  ___    ___  ___   ___ _____ ___ _____ ___    _   ___ 
- ####|   \ _ | |/_\ | \| |/ __|/ _ \  | _ )/ _ \ / _ \_   _/ __|_   _| _ \  /_\ | _ \
- ####| |) | || / _ \| .` | (_ | (_) | | _ \ (_) | (_) || | \__ \ | | |   / / _ \|  _/
- ####|___/ \__/_/ \_\_|\_|\___|\___/  |___/\___/ \___/ |_| |___/ |_| |_|_\/_/ \_\_|  
+  ___     _  _   _  _  ___  ___  
+|   \ _ | |/_\ | \| |/ __|/ _ \  | _ )/ _ \ / _ \_   _/ __|
+| |) | || / _ \| .` | (_ | (_) | | _ \ (_) | (_) || | \__ \ 
+|___/ \__/_/ \_\_|\_|\___|\___/  |___/\___/ \___/ |_| |___/ 
                                                                                  
 
 Django Bootstrap is an eskeleton application using Django 1.9.5, Twitter Bootstrap 3 and Virtualenv mantened by [Eduardo Le Masson]
@@ -15,38 +15,40 @@ Django Bootstrap is an eskeleton application using Django 1.9.5, Twitter Bootstr
 0.0.1
 
 
+### Installation using Linux 
 
-And of course Dillinger itself is open source with a [public repository][dill]
- on GitHub.
+>Install Python 2.7
+```sh
+$ sudo apt-get update
+$ sudo apt-get install python
+```
 
-### Installation
+>Install PIP
+```sh
+$ apt-get -y install python-pip
+```
 
-You'll need Virtualenv:
+>Install Virtualenv:
 
 ```sh
 $ sudo pip install virtualenv
 ```
+> Clone this [repository] or download and unzip manually the project files 
 
-
-### Development
-
-Want to contribute? Great!
-
-Open your favorite Terminal and run these commands.
-
-
-Start the Python development server and define the port
+>Start the Django incorporated development webserver and define the port to avoid conflicts
 
 ```sh
 $ python manage.py runserver 127.0.0.1:8080
 ```
 
+### Development
+
+Want to contribute? Great come on!
 
 
 ### Todos
 
  - Write License Text
- - Write a Walk Trough with step-by-step setup
  
 
 License
@@ -59,7 +61,7 @@ MIT
 
 
    
-   [git-repo-url]: <https://github.com/edulemasson/django_virtualenv.git>
+   [repository]: <https://github.com/edulemasson/django_virtualenv.git>
    [eduardo le masson]: <https://linkedin.com/in/edulemasson>
    [django]: <https://djangoproject.com>
    [Twitter Bootstrap]: <http://twitter.github.com/bootstrap/>
